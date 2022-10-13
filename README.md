@@ -8,6 +8,8 @@ IMPORTANT:
 	
 	
 	2A. "main_Iteration" is the first notebook I used
+	
+	
 	2B. "sub_Iteration" is for the last sub-step in step 8. That is, making your model(S) better.
 
 
